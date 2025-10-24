@@ -7,6 +7,15 @@ This repository contains a complete financial reporting project for a fictional 
 
 The primary goal is to showcase the technical skills involved in financial accounting and reporting, including the reconciliation of all four key statements.
 
+## Project Files
+
+This project consists of two main files. **Please ensure you have set the sharing permissions to "Viewer" before sharing.**
+
+* **Final Report (Google Doc):** A professional, 5-page report.
+    * **[Click Here to View the Final Report](https://docs.google.com/document/d/1hBU-DwceYZ9p3yZZSVurR25HJb0qhrgaekuKsiHxaQE/edit?usp=sharing)**
+
+* **Live Financial Model (Google Sheet):** The complete spreadsheet with all data, formulas, and calculations.
+    * **[Click Here to View the Live Financial Model](https://docs.google.com/spreadsheets/d/1pBvvt3YVdPWO3NNYhDf0V0YBe0dFzTiO/edit?usp=sharing)**
 ## Key Deliverables
 
 This repository includes:
@@ -32,7 +41,3 @@ The final report is a complete set of financial statements, including:
 * **Financial Modeling:** Interlinking the Income Statement, Balance Sheet, and Cash Flow Statement. This includes "plugging" the dividend payment by reconciling Net Income with the change in Retained Earnings.
 * **Technical Skills:** Advanced Microsoft Excel, including complex formulas, data organization, and professional report formatting.
 
-## How to View
-
-* For a high-level overview and the final presentation, please see **`Financial Report of Ajith Traders`**.
-* To review the formulas, audit the calculations, and see how the statements are linked, please explore the tabs in **`Financial_Data.xls`**.
